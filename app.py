@@ -2,7 +2,7 @@ import streamlit as st
 from pay_plan import MauroMotorsPayPlan
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="Mauro Motors Pay Calculator", page_icon="🚙", layout="centered")
+st.set_page_config(page_title="Monthly Bonus Calculator", page_icon="🚙", layout="centered")
 
 # --- CUSTOM HEADER ---
 st.markdown("<h2 style='text-align: center;'>Mauro Motors Pay Calculator</h2>", unsafe_allow_html=True)
