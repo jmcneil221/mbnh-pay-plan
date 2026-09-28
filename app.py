@@ -5,7 +5,7 @@ from pay_plan import MauroMotorsPayPlan
 st.set_page_config(page_title="Monthly Bonus Calculator", page_icon="🚙", layout="centered")
 
 # --- CUSTOM HEADER ---
-st.markdown("<h2 style='text-align: center;'>Mauro Motors Pay Calculator</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>Monthly Bonus Calculator</h2>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #6c757d; font-style: italic;'>Engineered by Simply J Labs</p>", unsafe_allow_html=True)
 st.divider()
 
